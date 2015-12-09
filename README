@@ -1,0 +1,10 @@
+Droidcolors will parse a .dex file and create an image file representing the
+internal structure of the file. 
+
+
+Related paper:
+Enriching Reverse Engineering through Visual Exploration of Android Binaries
+5th Program protection and Reverse Engineering Workshop (PPREW-5)
+
+http://dx.doi.org/10.1145/2843859.2843866
+
